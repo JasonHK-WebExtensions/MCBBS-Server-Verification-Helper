@@ -1,0 +1,25 @@
+{
+  "name": "mcbbs-server-verification-helper",
+  "description": "Ease the hassle of verifying the format of your MCBBS server promotional post.",
+  "private": true,
+  "license": "AGPL-3.0",
+  "version": "0.0.1",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net)",
+  "homepage": "https://github.com/JasonHK-WebExtensions/MCBBS-Server-Verification-Helper#readme",
+  "keywords": [
+    "mcbbs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK-WebExtensions/MCBBS-Server-Verification-Helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JasonHK-WebExtensions/MCBBS-Server-Verification-Helper/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
